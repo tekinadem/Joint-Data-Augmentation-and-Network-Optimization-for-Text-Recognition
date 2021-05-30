@@ -15,15 +15,15 @@ Note that this is a general toolkit. Please customize for your specific task. If
 
 - Distortion
 
-![](imgs/distort.gif) 
+![](distort.gif) 
 
 - Stretch
 
-![](imgs/stretch.gif)
+![](stretch.gif)
 
 - Perspective
 
-![](imgs/perspective.gif)
+![](perspective.gif)
 
 ## Speed
 
